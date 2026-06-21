@@ -1,0 +1,14 @@
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Data Structures and Algorithms\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.exe
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Data Structures and Algorithms\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.deps.json
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Data Structures and Algorithms\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.runtimeconfig.json
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Data Structures and Algorithms\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.dll
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Data Structures and Algorithms\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.pdb
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Data Structures and Algorithms\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Data Structures and Algorithms\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.AssemblyInfoInputs.cache
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Data Structures and Algorithms\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.AssemblyInfo.cs
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Data Structures and Algorithms\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.csproj.CoreCompileInputs.cache
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Data Structures and Algorithms\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.dll
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Data Structures and Algorithms\FinancialForecasting\obj\Debug\net10.0\refint\FinancialForecasting.dll
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Data Structures and Algorithms\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.pdb
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Data Structures and Algorithms\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.genruntimeconfig.cache
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Data Structures and Algorithms\FinancialForecasting\obj\Debug\net10.0\ref\FinancialForecasting.dll

@@ -1,0 +1,14 @@
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\FactoryMethodPatternExample\bin\Debug\net10.0\FactoryMethodPatternExample.exe
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\FactoryMethodPatternExample\bin\Debug\net10.0\FactoryMethodPatternExample.deps.json
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\FactoryMethodPatternExample\bin\Debug\net10.0\FactoryMethodPatternExample.runtimeconfig.json
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\FactoryMethodPatternExample\bin\Debug\net10.0\FactoryMethodPatternExample.dll
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\FactoryMethodPatternExample\bin\Debug\net10.0\FactoryMethodPatternExample.pdb
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.AssemblyInfoInputs.cache
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.AssemblyInfo.cs
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.dll
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\FactoryMethodPatternExample\obj\Debug\net10.0\refint\FactoryMethodPatternExample.dll
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.pdb
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.genruntimeconfig.cache
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\FactoryMethodPatternExample\obj\Debug\net10.0\ref\FactoryMethodPatternExample.dll

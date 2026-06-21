@@ -1,0 +1,14 @@
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.exe
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.deps.json
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.runtimeconfig.json
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.dll
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.pdb
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.AssemblyInfoInputs.cache
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.AssemblyInfo.cs
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.dll
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\SingletonPatternExample\obj\Debug\net10.0\refint\SingletonPatternExample.dll
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.pdb
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.genruntimeconfig.cache
+C:\Users\Krish Agarwalla\Desktop\Krish\Programming\Cognizant DeepSkilling\Design Principles and Patterns\SingletonPatternExample\obj\Debug\net10.0\ref\SingletonPatternExample.dll
