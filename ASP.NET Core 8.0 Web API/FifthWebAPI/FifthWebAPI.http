@@ -1,0 +1,6 @@
+@FifthWebAPI_HostAddress = http://localhost:5034
+
+GET {{FifthWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wrmEvl1S5EI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Krish Agarwalla\\Desktop\\Krish\\Programming\\Cognizant DeepSkilling\\ASP.NET Core 8.0 Web API\\SixthWebAPI\\KafkaProducer\\KafkaProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Krish Agarwalla\\.nuget\\packages\\confluent.kafka\\2.5.3\\confluent.kafka.2.5.3.nupkg.sha512",
+    "C:\\Users\\Krish Agarwalla\\.nuget\\packages\\librdkafka.redist\\2.5.3\\librdkafka.redist.2.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
