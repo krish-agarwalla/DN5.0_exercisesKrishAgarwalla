@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Krish Agarwalla\\Desktop\\Krish\\Programming\\Cognizant DeepSkilling\\ASP.NET Core 8.0 Web API\\SixthWebAPI\\KafkaProducer\\KafkaProducer.csproj": {}
+    "c:\\Users\\Krish Agarwalla\\Desktop\\Krish\\Programming\\Cognizant DeepSkilling\\ASP.NET Core 8.0 Web API\\SixthWebAPI\\KafkaProducer\\KafkaProducer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Krish Agarwalla\\Desktop\\Krish\\Programming\\Cognizant DeepSkilling\\ASP.NET Core 8.0 Web API\\SixthWebAPI\\KafkaProducer\\KafkaProducer.csproj": {
+    "c:\\Users\\Krish Agarwalla\\Desktop\\Krish\\Programming\\Cognizant DeepSkilling\\ASP.NET Core 8.0 Web API\\SixthWebAPI\\KafkaProducer\\KafkaProducer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Krish Agarwalla\\Desktop\\Krish\\Programming\\Cognizant DeepSkilling\\ASP.NET Core 8.0 Web API\\SixthWebAPI\\KafkaProducer\\KafkaProducer.csproj",
+        "projectUniqueName": "c:\\Users\\Krish Agarwalla\\Desktop\\Krish\\Programming\\Cognizant DeepSkilling\\ASP.NET Core 8.0 Web API\\SixthWebAPI\\KafkaProducer\\KafkaProducer.csproj",
         "projectName": "KafkaProducer",
-        "projectPath": "C:\\Users\\Krish Agarwalla\\Desktop\\Krish\\Programming\\Cognizant DeepSkilling\\ASP.NET Core 8.0 Web API\\SixthWebAPI\\KafkaProducer\\KafkaProducer.csproj",
+        "projectPath": "c:\\Users\\Krish Agarwalla\\Desktop\\Krish\\Programming\\Cognizant DeepSkilling\\ASP.NET Core 8.0 Web API\\SixthWebAPI\\KafkaProducer\\KafkaProducer.csproj",
         "packagesPath": "C:\\Users\\Krish Agarwalla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Krish Agarwalla\\Desktop\\Krish\\Programming\\Cognizant DeepSkilling\\ASP.NET Core 8.0 Web API\\SixthWebAPI\\KafkaProducer\\obj\\",
+        "outputPath": "c:\\Users\\Krish Agarwalla\\Desktop\\Krish\\Programming\\Cognizant DeepSkilling\\ASP.NET Core 8.0 Web API\\SixthWebAPI\\KafkaProducer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Krish Agarwalla\\AppData\\Roaming\\NuGet\\NuGet.Config"
